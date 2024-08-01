@@ -45,18 +45,13 @@ The predictive model will focus on selecting the most informative features from 
 
 ## Contact
 
-https://www.linkedin.com/in/sakshi-bhagat-644866218/
 Sakshi Bhagat - [@sakshi-bhagat-644866218](https://www.linkedin.com/in/sakshi-bhagat-644866218/) - sakshibhagat889@gmail.com 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github1-url]
-[![Gmail][gmail-shield]][gmail1-url]
+
 
 
 Sakshi Bhagat - [@28saakshii08](https://github.com/28saakshii08) - sakshibhagat889@gmail.com
 
-[![LinkedIn][linkedin-shield]][linkedin2-url]
-[![Github][github-shield]][github2-url]
-[![Gmail][gmail-shield]][gmail2-url]
+
 
 
 <!-- Shields -->
