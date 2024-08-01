@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -50,14 +49,14 @@ The predictive model will focus on selecting the most informative features from 
 
 ## Contact
 
-
-Bayram Alper KILIÇ - [@alperrkilic](https://www.linkedin.com/in/bayram-alper-kilic/) - alperkilicbusiness@gmail.com  
+https://www.linkedin.com/in/sakshi-bhagat-644866218/
+Sakshi Bhagat - [@sakshi-bhagat-644866218](https://www.linkedin.com/in/sakshi-bhagat-644866218/) - sakshibhagat889@gmail.com 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github1-url]
 [![Gmail][gmail-shield]][gmail1-url]
 
 
-Pelin KOZ - [@pelinkoz](https://github.com/pelinkoz) - pel0652@gmail.com
+Sakshi Bhagat - [@28saakshii08](https://github.com/28saakshii08) - sakshibhagat889@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin2-url]
 [![Github][github-shield]][github2-url]
@@ -66,32 +65,15 @@ Pelin KOZ - [@pelinkoz](https://github.com/pelinkoz) - pel0652@gmail.com
 
 <!-- Shields -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/alperrkilic/heart-attack-prediction.svg?style=for-the-badge
-[github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-
-<!-- Shield URL -->
-
-[contributors-url]: https://github.com/alperrkilic/heart-attack-prediction/graphs/contributors
-[forks-url]: https://github.com/alperrkilic/heart-attack-prediction/network/members
-[stars-url]: https://github.com/alperrkilic/heart-attack-prediction/stargazers
-[issues-url]: https://github.com/alperrkilic/heart-attack-prediction/issues
-[license-url]: https://github.com/alperrkilic/heart-attack-prediction/blob/master/LICENSE.txt
 
 
 <!-- Contact Links -->
 
-[linkedin-url]: https://www.linkedin.com/in/bayram-alper-kilic/
-[linkedin2-url]: https://www.linkedin.com/in/pelin-koz-5a2874222/
+[linkedin-url]: https://www.linkedin.com/in/sakshi-bhagat-644866218/
 
-[github1-url]:https://github.com/alperrkilic
-[github2-url]: https://github.com/pelinkoz
 
-[gmail1-url]: mailto:alperkilicbusiness@gmail.com
-[gmail2-url]: mailto:pel0652@gmail.com
+[github1-url]:https://github.com/28saakshii08
+
+
+[gmail1-url]: mailto:sakshibhagat889@gmail.com
